@@ -1,0 +1,13 @@
+{
+    "author": "Keijiro Takahashi",
+    "dependencies": { "com.unity.render-pipelines.high-definition": "7.3.1" },
+    "description": "Post process hatching effect",
+    "displayName": "KinoHatch",
+    "keywords": [ "unity" ],
+    "license": "Unlicense",
+    "name": "jp.keijiro.kino.post-processing.hatch",
+    "repository": "github:keijiro/KinoHatch",
+    "unity": "2019.3",
+    "unityRelease": "0f1",
+    "version": "0.0.1"
+}

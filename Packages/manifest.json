@@ -1,0 +1,13 @@
+{
+  "scopedRegistries": [
+    {
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [ "jp.keijiro" ]
+    }
+  ],
+  "dependencies": {
+    "jp.keijiro.danish-statues": "0.0.4",
+    "jp.keijiro.test-assets": "1.0.1"
+  }
+}
