@@ -200,7 +200,7 @@ MonoBehaviour:
       enableBigTilePrepass: 0
       isFptlEnabled: 0
   clearColorMode: 1
-  backgroundColorHDR: {r: 1, g: 1, b: 1, a: 0}
+  backgroundColorHDR: {r: 2.6390157, g: 2.6390157, b: 2.6390157, a: 1}
   clearDepth: 1
   volumeLayerMask:
     serializedVersion: 2
@@ -213,7 +213,7 @@ MonoBehaviour:
   taaSharpenStrength: 0.6
   physicalParameters:
     m_Iso: 50
-    m_ShutterSpeed: 0.01
+    m_ShutterSpeed: 0.016666668
     m_Aperture: 5.6
     m_BladeCount: 5
     m_Curvature: {x: 2, y: 11}
@@ -441,14 +441,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 883093731}
-  m_LocalRotation: {x: 0.169532, y: -0.21315129, z: 0.03758432, w: 0.96146387}
+  m_LocalRotation: {x: 0.15110414, y: -0.25563252, z: 0.040488224, w: 0.9540337}
   m_LocalPosition: {x: 0, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 7574658}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 20, y: -25, z: 0}
+  m_LocalEulerAnglesHint: {x: 18, y: -30, z: 0}
 --- !u!1 &908964810
 GameObject:
   m_ObjectHideFlags: 0
